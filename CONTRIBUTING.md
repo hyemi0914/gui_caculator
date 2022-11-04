@@ -10,11 +10,11 @@ generally best if you get confirmation of your bug or approval for your feature
 request this way before starting to code.
 
 If you have a general question about activeadmin, you can post it on [Stack
-Overflow], the issue tracker is only for bugs and feature requests.
+Overflow](https://stackoverflow.com/questions/tagged/pyqt_qui_calculator), the issue tracker is only for bugs and feature requests.
 
 ### Fork & create a branch
 
-If this is something you think you can fix, then [fork Active Admin] and create
+If this is something you think you can fix, then [fork Active Admin](https://docs.github.com/en/get-started/quickstart/fork-a-repo) and create
 a branch with a descriptive name.
 
 A good branch name would be (where issue #325 is the ticket you're working on):
@@ -49,7 +49,7 @@ git rebase master
 git push --set-upstream origin 325-add-japanese-translations
 ```
 
-Finally, go to GitHub and [make a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)[] :D
+Finally, go to GitHub and [make a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) :D
 
 Github Actions will run our test suite against all supported Rails versions. We
 care about quality, so your PR won't be merged until all tests pass. It's
