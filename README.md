@@ -23,7 +23,7 @@ Please read [CONTRIBUTING.md] for details on our code of conduct, and the proces
 
 ## Authors
 
-* **공부하는박사곰** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **공부하는박사곰** - *Initial work* - [공부하는박사곰](https://studyingrabbit.tistory.com/23)
 
 ## License
 
