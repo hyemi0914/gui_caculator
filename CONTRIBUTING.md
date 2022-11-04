@@ -63,7 +63,7 @@ investigate what's going on!
 If a maintainer asks you to "rebase" your PR, they're saying that a lot of code
 has changed, and that you need to update your branch so it's easier to merge.
 
-To learn more about rebasing in Git, there are a lot of [good resources]
+To learn more about rebasing in Git, there are a lot of [good][resources]
 but here's the suggested workflow:
 
 ```sh
