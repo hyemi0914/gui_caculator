@@ -5,7 +5,7 @@ like you that make Active Admin such a great tool.
 
 ### Where do I go from here?
 
-If you've noticed a bug or have a feature request, [make one][https://github.com/hyemi0914/gui_caculator/issues/new]! It's
+If you've noticed a bug or have a feature request, [make one](https://github.com/hyemi0914/gui_caculator/issues/new)! It's
 generally best if you get confirmation of your bug or approval for your feature
 request this way before starting to code.
 
