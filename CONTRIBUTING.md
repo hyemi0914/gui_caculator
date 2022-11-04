@@ -49,7 +49,7 @@ git rebase master
 git push --set-upstream origin 325-add-japanese-translations
 ```
 
-Finally, go to GitHub and [make a Pull Request][] :D
+Finally, go to GitHub and [make a Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request)[] :D
 
 Github Actions will run our test suite against all supported Rails versions. We
 care about quality, so your PR won't be merged until all tests pass. It's
