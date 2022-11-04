@@ -64,8 +64,7 @@ If a maintainer asks you to "rebase" your PR, they're saying that a lot of code
 has changed, and that you need to update your branch so it's easier to merge.
 
 To learn more about rebasing in Git, there are a lot of [good][git rebasing]
-[resources][interactive rebase]
-but here's the suggested workflow:
+[resources][interactive rebase] but here's the suggested workflow:
 
 ```sh
 git checkout 325-add-japanese-translations
