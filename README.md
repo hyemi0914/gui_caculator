@@ -23,9 +23,7 @@ Please read [CONTRIBUTING.md] for details on our code of conduct, and the proces
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **공부하는박사곰** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
 
 ## License
 
