@@ -15,7 +15,7 @@ python -m pip install pyqt5
 
 ## Built With
 
-* PyQt5 - The GUI framework used
+* PyQt5[https://pypi.org/project/PyQt5] - The GUI framework used
 
 ## Contributing
 
