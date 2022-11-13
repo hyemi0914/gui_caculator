@@ -36,7 +36,7 @@ At this point, you should switch back to your master branch and make sure it's
 up to date with Active Admin's master branch:
 
 ```sh
-git remote add upstream git@github.com:activeadmin/activeadmin.git
+git remote add upstream git@github.com:gui_caculator/gui_caculator.git
 git checkout master
 git pull upstream master
 ```
