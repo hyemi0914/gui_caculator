@@ -24,6 +24,7 @@ Please read [CONTRIBUTING.md](https://github.com/hyemi0914/gui_caculator/blob/ma
 ## Authors
 
 * **공부하는박사곰** - *Initial work* - [공부하는박사곰](https://studyingrabbit.tistory.com/23)
+* **박혜미** - *Init repository - this repository
 
 ## License
 
