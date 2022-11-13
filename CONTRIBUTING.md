@@ -1,7 +1,7 @@
 ## Contributing
 
-First off, thank you for considering contributing to Active Admin. It's people
-like you that make Active Admin such a great tool.
+First off, thank you for considering contributing to Gui Caculator. It's people
+like you that make Gui Caculator such a great tool.
 
 ### Where do I go from here?
 
